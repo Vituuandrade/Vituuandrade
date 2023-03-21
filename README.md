@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/Vituuandrade">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vituuandrade&show_icons=true&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vituuandrade&show_icons=true&theme=dark"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituuandrade&layout=compact&langs_count=16&theme=dark"/>
  </div>
  
