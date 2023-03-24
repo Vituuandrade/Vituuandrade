@@ -4,9 +4,9 @@
 - 📚 Estudando HTML, CSS e JavaScript.
 
 <div>
-  <a href="https://github.com/Vituuandrade">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vituuandrade&show_icons=true&theme=dark"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituuandrade&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/vitugoncalves">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitugoncalves&show_icons=true&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitugoncalves&layout=compact&langs_count=16&theme=dark"/>
  </div>
  
  <div style="display:inline_block"><br>
