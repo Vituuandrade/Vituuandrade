@@ -1,7 +1,7 @@
 ### Opa Opa, me chamo Victor Gonçalves! 👽
 
 - 💻 Estou em busca da minha primeira oportunidade na área de programação front-end.
-- 📚 Estudando HTML, CSS e JavaScript.
+- 📚 Estudando JavaScript e React.
 
 <div>
   <a href="https://github.com/vitugoncalves">
